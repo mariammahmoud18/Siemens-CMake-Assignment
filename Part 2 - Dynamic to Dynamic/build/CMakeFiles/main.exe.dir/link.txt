@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.exe.dir/main.cpp.o -o main.exe  -Wl,-rpath,"/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build" liblibcore.so liblibcalc.so 

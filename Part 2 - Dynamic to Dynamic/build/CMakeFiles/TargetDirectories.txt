@@ -1,0 +1,5 @@
+/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build/CMakeFiles/libcalc.dir
+/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build/CMakeFiles/libcore.dir
+/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build/CMakeFiles/main.exe.dir
+/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build/CMakeFiles/edit_cache.dir
+/home/mariamswelam/Siemens-CMake-Assignment/Part 2 - Dynamic to Dynamic/build/CMakeFiles/rebuild_cache.dir
